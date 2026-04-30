@@ -1,2 +1,2 @@
 Test
-![Mein Bild](./images/index.png)
+![image alt](./images/index.png)
